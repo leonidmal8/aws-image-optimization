@@ -6,4 +6,4 @@ cd image-optimization
 npm install
 cdk bootstrap
 npm run build
-cdk deploy -c DEPLOY_SAMPLE_WEBSITE=false -c S3_IMAGE_BUCKET_NAME=cftestimages1 -c MAX_IMAGE_SIZE=47000000
+cdk deploy -c DEPLOY_SAMPLE_WEBSITE=false -c S3_IMAGE_BUCKET_NAME="your bucket" -c MAX_IMAGE_SIZE=47000000
