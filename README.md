@@ -3,7 +3,7 @@ Simple, performant and cost efficient solution for optimizing images using Amazo
 
 git clone https://github.com/leonidmal8/aws-image-optimization.git
 
-cd image-optimization
+cd aws-image-optimization
 
 npm install
 
